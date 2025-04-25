@@ -1,24 +1,24 @@
  h1 {
-            color: blue;
+            color: #2a7ae2;
             font-size: 2.5em;
         }
         h2 {
-            color: red;
+            color: #f44336;
             font-size: 2em;
         }
         h3 {
-            color: green;
+            color: #4caf50;
             font-size: 1.75em;
         }
         h4 {
-            color: orange;
+            color: #ff9800;
             font-size: 1.5em;
         }
         h5 {
-            color: gray;
+            color: #607d8b;
             font-size: 1.25em;
         }
         h6 {
-            color: yellow;
+            color: #ffeb3b;
             font-size: 1em;
         }
